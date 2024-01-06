@@ -1,5 +1,5 @@
 # learn-vim-on-fish
-Learn Vim on Fish shell
+Learn Vim on Fish shell.
 
 Just add the following line to your *config.fish* file
 
